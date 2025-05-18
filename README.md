@@ -70,6 +70,7 @@ This project is licensed under the **MIT License**.
 ## Contact
 For any issues or suggestions, reach out to:
 - **Gonthina Dinesh**: (mailto:gonthina.dinesh2005@gmail.com)
+- **Deepak Mallareddy** (mailto:mallareddydeepak03@gmail.com)
 
 ---
 Enjoy using the Health Prediction System! 🚀
