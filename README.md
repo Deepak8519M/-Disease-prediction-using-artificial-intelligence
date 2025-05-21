@@ -25,6 +25,7 @@ Ensure you have **Python 3.7+** installed.
 ### Clone the Repository
 ```bash
  git clone https://github.com/your-username/health-prediction-system.git
+
  cd health-prediction-system
 ```
 
@@ -73,4 +74,4 @@ For any issues or suggestions, reach out to:
 - **Deepak Mallareddy** (mailto:mallareddydeepak03@gmail.com)
 
 ---
-Enjoy using the Health Prediction System! 🚀
+Enjoy using the Health Disease Prediction System! 🚀
