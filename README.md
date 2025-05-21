@@ -10,7 +10,7 @@ The **Health Prediction System** is a web application that helps users assess th
   - Diabetes Risk Prediction
   - Stroke (Brain Disease) Risk Prediction
 - **Personalized Health Advice**: Users receive tailored health improvement suggestions based on their results.
-- **Secure & Private**: User data is protected and used only for predictions.
+- **Secure & Private**: User data is protected and used only for predictions to safeguard user's safety and enhance user's interest and privacy
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
